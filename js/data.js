@@ -5,7 +5,7 @@
 
 export const siteConfig = {
   name: 'GG扑克',
-  domain: 'ggpukett.com',
+  domain: 'ggpukejj.com',
   title: 'GG扑克 - GGPoker中文官网',
   description: 'GG扑克中文官网，WSOP世界扑克系列赛官方合作平台',
   defaultLang: 'zh-CN'
@@ -332,12 +332,12 @@ export const routeSEO = {
   '/': {
     title: 'GG扑克 - GGPoker中文官网 | WSOP官方合作平台',
     description: 'GG扑克中文官网，WSOP世界扑克系列赛官方合作平台，提供专业扑克赛事、安全公平游戏环境，支持多设备畅玩。立即下载体验！',
-    keywords: 'GG扑克,GGPoker,GGpuketi,WSOP,扑克赛事,德扑,德州扑克'
+    keywords: 'GG扑克,GGPoker,GGpukejj,WSOP,扑克赛事,德扑,德州扑克'
   },
   '/tournaments': {
     title: '赛事专区 - GG扑克中文官网',
     description: 'GG扑克赛事专区，汇集豪客赛、赏金猎人、生肖赛等各类精彩赛事，天天有比赛，月月有大奖。',
-    keywords: 'GG扑克赛事,德州扑克赛事,GGpuketi赛事'
+    keywords: 'GG扑克赛事,德州扑克赛事,GGpukejj赛事'
   },
   '/news': {
     title: '最新报道 - GG扑克中文官网',
