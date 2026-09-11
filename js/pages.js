@@ -36,7 +36,7 @@ export function renderHome() {
         <h1 class="hero-title">欢迎来到GG扑克<br>中文旗舰平台</h1>
         <p class="hero-subtitle">汇集全球顶尖牌手，每日海量赛事，安全公平竞技，打造专业扑克体验。</p>
         <div class="hero-buttons">
-          <a href="https://signup02.guanaizhijia.com/signup?qtag=KK88&brand-id=MBP&site-id=GGPUKE" target="_blank" rel="nofollow" class="btn-primary">立即下载</a>
+          <a href="https://join.ggpass.com/signup?qsid" target="_blank" rel="nofollow" class="btn-primary">立即下载</a>
         </div>
       </div>
     </section>
@@ -73,7 +73,7 @@ export function renderHome() {
         <h2 class="section-title">立即开始体验</h2>
         <p class="section-subtitle">支持多平台，一键下载安装</p>
         <div style="margin-top: var(--spacing-8);">
-          <a href="https://signup02.guanaizhijia.com/signup?qtag=KK88&brand-id=MBP&site-id=GGPUKE" target="_blank" rel="nofollow" class="btn-primary">下载客户端</a>
+          <a href="https://join.ggpass.com/signup?qsid" target="_blank" rel="nofollow" class="btn-primary">下载客户端</a>
         </div>
       </div>
     </section>
@@ -404,17 +404,17 @@ export function renderDownloadPage() {
         <div class="download-card">
           <h3 class="download-platform">Windows</h3>
           <p class="download-desc">适合Window电脑玩家，完整功能，流畅体验，支持多开。</p>
-          <a href="https://signup02.guanaizhijia.com/signup?qtag=KK88&brand-id=MBP&site-id=GGPUKE" target="_blank" rel="nofollow" class="btn-download">立即下载</a>
+          <a href="https://join.ggpass.com/signup?qsid" target="_blank" rel="nofollow" class="btn-download">立即下载</a>
         </div>
         <div class="download-card">
           <h3 class="download-platform">macOS</h3>
           <p class="download-desc">专为苹果电脑优化，原生适配，稳定流畅，舒适体验。</p>
-          <a href="https://signup02.guanaizhijia.com/signup?qtag=KK88&brand-id=MBP&site-id=GGPUKE" target="_blank" rel="nofollow" class="btn-download">立即下载</a>
+          <a href="https://join.ggpass.com/signup?qsid" target="_blank" rel="nofollow" class="btn-download">立即下载</a>
         </div>
         <div class="download-card">
           <h3 class="download-platform">iOS / Android</h3>
           <p class="download-desc">移动端随时随地畅玩，随时随地参赛，数据同步。</p>
-          <a href="https://signup02.guanaizhijia.com/signup?qtag=KK88&brand-id=MBP&site-id=GGPUKE" target="_blank" rel="nofollow" class="btn-download">立即下载</a>
+          <a href="https://join.ggpass.com/signup?qsid" target="_blank" rel="nofollow" class="btn-download">立即下载</a>
         </div>
       </div>
 
